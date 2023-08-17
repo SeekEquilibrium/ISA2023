@@ -1,6 +1,7 @@
 package com.example.Clinic.Model;
 
-import jakarta.persistence.Column;
+
+import javax.persistence.Column;
 
 public class Adress {
     @Column
